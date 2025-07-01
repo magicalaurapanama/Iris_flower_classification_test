@@ -151,9 +151,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - [aman.aryaman12112002@gmail.com](mailto:your.email@example.com)
 
-**LinkedIn** - [https://www.linkedin.com/in/aryaman-gupta-74982923a/](https://linkedin.com/in/yourprofile)
+**LinkedIn** - [https://www.linkedin.com/in/aryaman-gupta-74982923a/](https://www.linkedin.com/in/aryaman-gupta-74982923a/)
 
-**Project Link** - [https://github.com/magicalaurapanama/Iris_flower_classification_test](https://github.com/yourusername/iris-flower-classification)
+**Project Link** - [https://github.com/magicalaurapanama/Iris_flower_classification_test](https://github.com/magicalaurapanama/Iris_flower_classification_test)
 
 ---
 
