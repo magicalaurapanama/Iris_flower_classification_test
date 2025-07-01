@@ -149,9 +149,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [aman.aryaman12112002@gmail.com](mailto:your.email@example.com)
 
-**LinkedIn** - [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**LinkedIn** - [https://www.linkedin.com/in/aryaman-gupta-74982923a/](https://linkedin.com/in/yourprofile)
 
 **Project Link** - [https://github.com/yourusername/iris-flower-classification](https://github.com/yourusername/iris-flower-classification)
 
