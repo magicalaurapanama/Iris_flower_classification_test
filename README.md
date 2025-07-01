@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **LinkedIn** - [https://www.linkedin.com/in/aryaman-gupta-74982923a/](https://linkedin.com/in/yourprofile)
 
-**Project Link** - [https://github.com/magicalaurapanama/iris-flower-classification](https://github.com/yourusername/iris-flower-classification)
+**Project Link** - [https://github.com/magicalaurapanama/Iris_flower_classification_test](https://github.com/yourusername/iris-flower-classification)
 
 ---
 
